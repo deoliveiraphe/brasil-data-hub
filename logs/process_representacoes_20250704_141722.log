@@ -1,0 +1,40 @@
+2025-07-04 14:17:22,634 - INFO - 📋 Log iniciado: logs/process_representacoes_20250704_141722.log
+2025-07-04 14:17:22,634 - INFO - � Iniciando processador de representações fiscais
+2025-07-04 14:17:22,635 - INFO - 📊 Arquivo selecionado: data/processed/representacoes_fiscais_20250704_141722.csv (2.30 MB)
+2025-07-04 14:17:22,635 - INFO - 🚀 Iniciando processamento
+2025-07-04 14:17:22,635 - INFO - 🎯 INÍCIO DO PROCESSAMENTO - 2025-07-04 14:17:22
+2025-07-04 14:17:22,635 - INFO - 🎯 Iniciando processamento: data/processed/representacoes_fiscais_20250704_141722.csv
+2025-07-04 14:17:22,635 - INFO - 📏 Arquivo: 2.30 MB (2,415,847 bytes)
+2025-07-04 14:17:22,635 - INFO - 🔗 Testando conexão com PostgreSQL...
+2025-07-04 14:17:22,637 - INFO - ✅ Conexão com PostgreSQL estabelecida
+2025-07-04 14:17:22,637 - INFO - 🗑️ Removendo e recriando a tabela 'representacoes_fiscais'...
+2025-07-04 14:17:22,695 - INFO - ✅ Tabela 'representacoes_fiscais' removida e recriada com sucesso
+2025-07-04 14:17:22,697 - INFO - ⚙️ Banco otimizado para inserções em massa
+2025-07-04 14:17:22,738 - INFO - 📄 Total de 45,828 registros lidos do CSV.
+2025-07-04 14:17:24,690 - INFO - ✅ 45,274 registros válidos para inserção, 554 descartados.
+2025-07-04 14:17:24,691 - INFO - ✨ 45,274 registros para inserção.
+2025-07-04 14:17:26,631 - INFO - ✅ Inserção concluída: 45,274 registros no total.
+2025-07-04 14:17:26,804 - INFO - 🎉 PROCESSAMENTO CONCLUÍDO COM SUCESSO
+2025-07-04 14:17:26,805 - INFO - ⏱️ Duração total: 0:00:04.169698
+2025-07-04 14:17:26,805 - INFO - 📊 Dados inseridos na tabela 'representacoes_fiscais'
+2025-07-04 14:17:26,805 - INFO - 📋 Log salvo em: logs/process_representacoes_20250704_141722.log
+2025-07-04 14:17:48,373 - INFO - 📋 Log iniciado: logs/process_representacoes_20250704_141748.log
+2025-07-04 14:17:48,373 - INFO - � Iniciando processador de representações fiscais
+2025-07-04 14:17:48,373 - INFO - 📊 Arquivo selecionado: data/processed/representacoes_fiscais_20250704_141748.csv (2.30 MB)
+2025-07-04 14:17:48,373 - INFO - 🚀 Iniciando processamento
+2025-07-04 14:17:48,373 - INFO - 🎯 INÍCIO DO PROCESSAMENTO - 2025-07-04 14:17:48
+2025-07-04 14:17:48,374 - INFO - 🎯 Iniciando processamento: data/processed/representacoes_fiscais_20250704_141748.csv
+2025-07-04 14:17:48,374 - INFO - 📏 Arquivo: 2.30 MB (2,415,847 bytes)
+2025-07-04 14:17:48,374 - INFO - 🔗 Testando conexão com PostgreSQL...
+2025-07-04 14:17:48,376 - INFO - ✅ Conexão com PostgreSQL estabelecida
+2025-07-04 14:17:48,376 - INFO - 🗑️ Removendo e recriando a tabela 'representacoes_fiscais'...
+2025-07-04 14:17:48,410 - INFO - ✅ Tabela 'representacoes_fiscais' removida e recriada com sucesso
+2025-07-04 14:17:48,412 - INFO - ⚙️ Banco otimizado para inserções em massa
+2025-07-04 14:17:48,451 - INFO - 📄 Total de 45,828 registros lidos do CSV.
+2025-07-04 14:17:50,292 - INFO - ✅ 45,274 registros válidos para inserção, 554 descartados.
+2025-07-04 14:17:50,293 - INFO - ✨ 45,274 registros para inserção.
+2025-07-04 14:17:52,277 - INFO - ✅ Inserção concluída: 45,274 registros no total.
+2025-07-04 14:17:52,430 - INFO - 🎉 PROCESSAMENTO CONCLUÍDO COM SUCESSO
+2025-07-04 14:17:52,430 - INFO - ⏱️ Duração total: 0:00:04.056079
+2025-07-04 14:17:52,430 - INFO - 📊 Dados inseridos na tabela 'representacoes_fiscais'
+2025-07-04 14:17:52,430 - INFO - 📋 Log salvo em: logs/process_representacoes_20250704_141748.log

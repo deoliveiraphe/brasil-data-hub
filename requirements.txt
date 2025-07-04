@@ -1,0 +1,31 @@
+# ===============================================
+# Brasil Data Hub - Dependências Python
+# ===============================================
+
+# === Web Scraping & HTTP ===
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+selenium==4.16.0
+webdriver-manager==4.0.1
+
+# === Banco de Dados ===
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+alembic==1.12.1
+
+# === Processamento de Dados ===
+pandas==2.1.4
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# === Configuração ===
+python-dotenv==1.0.0
+
+# === Ferramentas de Desenvolvimento ===
+black==23.11.0
+isort==5.12.0
+flake8==6.1.0
+mypy==1.7.1
+bandit==1.7.5
+pytest==7.4.3
